@@ -2603,7 +2603,7 @@
       "selfFreeing": true,
       "dupFunction": "git_tree_entry_dup",
       "freeFunctionName": "git_tree_entry_free",
-      "functions": {        
+      "functions": {
         "git_tree_entry_id": {
           "return": {
             "ownedByThis": true
