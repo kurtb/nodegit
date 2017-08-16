@@ -187,5 +187,6 @@ describe("TreeEntry", function() {
           return tree.entryByPath("example");
         });
       });
+
     });
 });
