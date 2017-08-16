@@ -186,7 +186,6 @@ describe("TreeEntry", function() {
         .then(function(tree) {
           return tree.entryByPath("example");
         });
-      });
-
     });
+  });
 });
